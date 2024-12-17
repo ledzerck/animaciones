@@ -42,7 +42,7 @@ section {
     /* transition: all .2s ease-in; */
     animation: Movimiento 2s ease-in 0s infinite;
 }
-
+/* HOLA*/
 .transform:hover {
     animation-play-state: paused;
 }
